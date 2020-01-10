@@ -1,0 +1,2 @@
+remote ip = "192.168.1.12" 'ip for tcp side
+port = [5001] 'service port
